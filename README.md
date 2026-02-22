@@ -8,17 +8,17 @@ Welcome to my **Prompt Engineering Portfolio**, showcasing advanced, professiona
 
 This repository includes the following files:
 
-1. **01-Thumbnail-Concept-Generator.md**  
+ **01-Thumbnail-Concept-Generator.md**  
    - **Domain:** Social Media & Creative Content  
    - **What it Contains:** A complete thumbnail design concept for a YouTube or social media video, including **visual subject, text overlay, fonts, colors, layout, mood, engagement strategies, accessibility, call-to-action hints, and branding elements**.  
    - **Why it Matters:** Shows how to create attention-grabbing thumbnails that maximize clicks and viewer engagement.  
 
-2. **02-Market-Trend-Analysis.md**  
+ **02-Market-Trend-Analysis.md**  
    - **Domain:** Business & Market Analysis  
    - **What it Contains:** A full market trend analysis with **key trends, growth metrics, adoption rates, emerging technologies, business opportunities, and future outlook**.  
    - **Why it Matters:** Demonstrates the ability to extract actionable insights from market data and suggest strategic opportunities for decision-makers.  
 
-3. **03-Database-Record-Formatter.md**  
+ **03-Database-Record-Formatter.md**  
    - **Domain:** Data & Analytics  
    - **What it Contains:** A professional workflow for cleaning and formatting multi-column datasets, including **duplicate removal, missing value handling, normalization, validation, and CSV/Excel-ready structured output**.  
    - **Dataset Example Columns:** Name, Email, Phone, City, Date of Birth, Gender, Signup Date, Membership Level, Last Purchase Amount  
